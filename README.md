@@ -19,7 +19,7 @@
 
 | 구분       | 기술                            |
 |------------|---------------------------------|
-| 프론트엔드 | `React` + `Vite` + `TailwindCSS` |
+| 프론트엔드 | `React` + `Vite` + `TailwindCSS` `zustand` |
 | 백엔드     | `Spring Boot` + `Spring Security` + `JPA` |
 | 데이터베이스 | `PostgreSQL` (Railway 클라우드 호스팅) |
 | 배포       | 미정 |
