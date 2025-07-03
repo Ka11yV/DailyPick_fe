@@ -1,12 +1,31 @@
-# React + Vite
+# 🥡 DailyPick
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+대학교 주변 맛집과 카페를 간편하게 탐색하고 공유할 수 있는 플랫폼입니다.  
+친구와 어디서 무엇을 먹을지 고민될 때, DailyPick이 대신 골라줍니다!
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 주요 기능
 
-## Expanding the ESLint configuration
+- 대학교 기반 위치 필터링
+- 음식점/카페 카테고리 탐색
+- 인기 순 추천
+- 유저 리뷰 및 평점 등록
+- 간편한 회원가입 및 로그인
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ 기술 스택
+
+| 구분       | 기술                            |
+|------------|---------------------------------|
+| 프론트엔드 | `React` + `Vite` + `TailwindCSS` |
+| 백엔드     | `Spring Boot` + `Spring Security` + `JPA` |
+| 데이터베이스 | `PostgreSQL` (Railway 클라우드 호스팅) |
+| 배포       | 미정 |
+
+---
+
+## ⚙️ 실행 방법
+
+
